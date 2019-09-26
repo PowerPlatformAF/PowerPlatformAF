@@ -12,7 +12,7 @@ We hope you’ll join is one of a several ways. Starting today, PowerPlatformAF 
 
 2. Join those discussions through comment and reacting to submitted ideas so that we can determine what (and in what form) additions to the framework need to be made
 
-3. Have always-up-to-date access to the [latest version of the framework now posted on the wiki] (https://github.com/PowerPlatformAF/PowerPlatformAF/wiki)
+3. Have always-up-to-date access to the [latest version of the framework now posted on the wiki](https://github.com/PowerPlatformAF/PowerPlatformAF/wiki)
 
 Keep in mind that the wiki will always be a draft work-in-progress. Everyone can now share and use the latest ideas coming out of the community here. Periodically (thinking every six months or so) we’ll give it a good scrub and turn it into the next official edition white paper.
 
