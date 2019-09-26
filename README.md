@@ -1,4 +1,7 @@
 # Power Platform Adoption Framework
+
+## Welcome!
+
 We must continue to open up the evolution of Power Platform Adoption Framework to input and ideas from around the global Power Platform community. This idea has been one of our primary revelations as we've thought about the framework’s future.
 
 So that’s why ongoing development of the Power Platform Adoption Framework is now happening on Github. Developers everywhere use Github to create software, and now we’re going to use Github to further build the framework that enables people to create beautiful and useful things on Power Platform deployed in large, enterprise-grade organizations.
@@ -13,9 +16,11 @@ We hope you’ll join is one of a several ways. Starting today, PowerPlatformAF 
 
 Keep in mind that the wiki will always be a draft work-in-progress. Everyone can now share and use the latest ideas coming out of the community here. Periodically (thinking every six months or so) we’ll give it a good scrub and turn it into the next official edition white paper.
 
-There are already some great discussions going on and ideas getting submitted. I hope that you will join us, and share yours!
+We hope that you will join, share, collaborate, and help drive large-scale adoption of Microsoft Power Platform with us!
 
-Mature organizations understand that rigor, discipline, and best practices are required to fully adopt the platform at scale. 
+<HR>
+
+## What is Power Platform Adoption Framework? 
 
 **The Power Platform Adoption Framework is the start-to-finish approach for adopting the platform at scale.** It has become the global community standard for adoption, buildout, road mapping, enterprise management and governance of Power Platform at scale within enterprise-grade organizations.
 
