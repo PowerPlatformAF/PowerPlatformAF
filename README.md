@@ -8,7 +8,7 @@ So that’s why ongoing development of the Power Platform Adoption Framework is 
 
 We hope you’ll join is one of a several ways. Starting today, PowerPlatformAF on Github (https://github.com/PowerPlatformAF/PowerPlatformAF) is the place where we’re inviting members of our community to:
 
-1. Submit ideas, recommendations, issues, and other input for discussion and possible inclusion in ongoing updates to the framework
+1. ([Submit ideas, recommendations, issues, and other input](https://github.com/PowerPlatformAF/PowerPlatformAF/issues)) for discussion and possible inclusion in ongoing updates to the framework
 
 2. Join those discussions through comment and reacting to submitted ideas so that we can determine what (and in what form) additions to the framework need to be made
 
