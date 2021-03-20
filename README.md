@@ -2,7 +2,7 @@
 
 ## Welcome!
 
-We must continue to open up the evolution of Power Platform Adoption Framework to input and ideas from around the global Power Platform community. This idea has been one of our primary revelations as we've thought about the framework’s future.
+We continue to open up the evolution of Power Platform Adoption Framework to input and ideas from around the global Power Platform community. This idea has been one of our primary revelations as we've thought about the framework’s future.
 
 So that’s why ongoing development of the Power Platform Adoption Framework is now happening on Github. Developers everywhere use Github to create software, and now we’re going to use Github to further build the framework that enables people to create beautiful and useful things on Power Platform deployed in large, enterprise-grade organizations.
 
